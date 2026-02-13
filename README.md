@@ -1,5 +1,5 @@
 <h2>SkyLiteDemo Project: A SkyLite Framework Showcase</h2>
-<h4>Educational purposes<h4>
+<h2>Educational purposes<h2>
 Attached MS-SQL Database : SKYLITEDEMO.BAK (full-backup)<br>
 <h4>Introduction</h4>
 This SkyLiteDemo project serves as a comprehensive and practical showcase of the SkyLite framework's capabilities for building modern, data-driven web applications. It demonstrates how various UI controls and core framework features can be seamlessly integrated to create a cohesive, interactive, and personalized user experience.
